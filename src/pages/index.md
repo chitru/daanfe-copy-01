@@ -12,7 +12,7 @@ sections:
       Remember us for: Designing brochures, restaurant menus, logos,
       advertisement flyers, social media ads & campaign, email ads campaign,
       website, web application and systems, SEO and many more..
-    image: images/hero.png
+    image: /images/1814.jpg
     section_id: hero
     title: 'Hi, Welcome to Daanfe. '
     type: section_hero
