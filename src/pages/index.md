@@ -5,8 +5,9 @@ sections:
       - label: Learn More
         url: /features
     content: >-
-      Daanfe is a digital agency specialised in digital design and digital
-      marketing. We can help you to develop your brand from scratch to success.
+      We are digital agency specialised in digital design, digital marketing and
+      web app design and development. We can help you to develop your brand from
+      scratch to success.
     image: /images/hero.png
     section_id: hero
     title: 'Hi, Welcome to Daanfe. '
