@@ -6,12 +6,7 @@ sections:
         url: /features
     content: >-
       Daanfe is a digital agency specialised in digital design and digital
-      marketing. We can help you to develop your brand from scratch.
-
-
-      Remember us for: Designing brochures, restaurant menus, logos,
-      advertisement flyers, social media ads & campaign, email ads campaign,
-      website, web application and systems, SEO and many more..
+      marketing. We can help you to develop your brand from scratch to success.
     image: /images/hero.png
     section_id: hero
     title: 'Hi, Welcome to Daanfe. '
