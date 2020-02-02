@@ -1,17 +1,12 @@
 {
   "title": "Daanfe | Digital Design and Marketing Agency",
-  "palette": "blue",
+  "palette": "orange",
   "header": {
     "title": "Daanfe",
     "logo_img": "/images/logo.png",
     "has_nav": true,
     "menu": {
-      "actions": [
-        {
-          "label": "Sign Up",
-          "url": "/signup"
-        }
-      ]
+      "actions": []
     }
   },
   "footer": {
@@ -19,17 +14,11 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "Digital Design and Marketing Agency",
     "logo_img": "/images/logo.png",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
+    "content": "&copy; Daanfe. All rights reserved.",
+    "links": [],
     "nav_title": "Company",
     "has_nav": true
   }
